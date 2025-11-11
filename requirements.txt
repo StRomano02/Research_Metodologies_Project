@@ -1,0 +1,26 @@
+# Core scientific libraries
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# Generative models
+ydata-synthetic
+sdv
+torch
+torchvision
+tqdm
+
+# Diffusion model (TabDDPM)
+pytorch-lightning
+einops
+
+# Privacy & anonymization tools
+pycanon
+faker
+
+# Utility
+notebook
+jupyterlab
