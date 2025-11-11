@@ -9,10 +9,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data and results
-data/raw/*
-data/processed/*
-data/synthetic/*
-results/*
 
 # System files
 .DS_Store

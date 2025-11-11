@@ -1,26 +1,26 @@
 # Core scientific libraries
-numpy
-pandas
-scikit-learn
-scipy
-matplotlib
-seaborn
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+scipy==1.13.1
+matplotlib==3.9.2
+seaborn==0.13.2
 
 # Generative models
-ydata-synthetic
-sdv
-torch
-torchvision
-tqdm
+ydata-synthetic==1.4.0
+sdv==1.17.2
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.4
 
-# Diffusion model (TabDDPM)
-pytorch-lightning
-einops
+# Diffusion (optional)
+pytorch-lightning==2.2.1
+einops==0.7.0
 
-# Privacy & anonymization tools
-pycanon
-faker
+# Privacy & anonymization
+pycanon==1.0.1
+faker==25.8.0
 
-# Utility
+# Utilities
 notebook
 jupyterlab
