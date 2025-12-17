@@ -8,9 +8,9 @@ ctgan,XGBoost,0.6251759005382194
 kanon,Logistic Regression,0.7156721939330635
 kanon,Random Forest,0.6779678228953593
 kanon,XGBoost,0.6249727988858423
+noise,Logistic Regression,0.7210398804601703
+noise,Random Forest,0.7000188594391493
+noise,XGBoost,0.7034425730077903
 diffusion,Logistic Regression,0.7242024633328982
-diffusion,Random Forest,0.6971899435667552
-diffusion,XGBoost,0.6870493682087885
-noise,Logistic Regression,0.7235206220713466
-noise,Random Forest,0.7117262189725956
-noise,XGBoost,0.7094050572311442
+diffusion,Random Forest,0.6973785379582481
+diffusion,XGBoost,0.6963195079137108
